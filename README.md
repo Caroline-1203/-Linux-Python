@@ -1,4 +1,4 @@
-# automatingTestingOfLinux
+# Автоматизация тестирования консольных приложений Linux на Python
 ## Homework1
 
 ### Задание 1.
